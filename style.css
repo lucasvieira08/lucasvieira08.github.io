@@ -406,7 +406,7 @@ footer p {
     color: #797A7F;
 }
 
-@media only screen and (max-width: 895px) {
+@media only screen and (max-width: 768px) {
 
   .image-container {
   width: 60%; /* Ajuste o tamanho desejado */
@@ -457,7 +457,7 @@ footer p {
 }
 
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 600px) {
 
   nav {
     flex-direction: column; /* Alinha os itens verticalmente */
